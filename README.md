@@ -1,5 +1,5 @@
 
-```markdown
+
 # Koinx Backend
 
 This is a Node.js application that provides APIs for fetching cryptocurrency data and calculating market statistics. The application uses MongoDB to store historical cryptocurrency data and periodically updates it using background jobs.
